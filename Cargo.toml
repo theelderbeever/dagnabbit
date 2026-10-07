@@ -1,0 +1,8 @@
+[package]
+name = "dagnabit"
+version = "0.0.0"
+edition = "2024"
+description = "DAGnabit is a crate and application for building and orchestrating workflows"
+license = "MIT"
+
+[dependencies]
