@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "dagnabit"
+name = "dagnabbit"
 version = "0.0.0"
